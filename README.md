@@ -4,7 +4,7 @@
 <h3 align="left">🛠 Технологии:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,js,ts,react,redux,postgres,github,bootstrap,figma,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,postgres,github,bootstrap,figma,ai,ps" />
   </a>
 </p>
 
