@@ -9,4 +9,4 @@
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%A8%D0%B5%D0%B2%D1%86%D0%BE%D0%B2%D0%B0/badges/large) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shevtcovaLena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shevtcovaLena&layout=compact)](https://github.com/shevtcovaLena/github-readme-stats)
