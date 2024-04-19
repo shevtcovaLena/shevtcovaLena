@@ -1,4 +1,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-shevtcova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/shevtcova_lena)
+[![linkedin Badge](https://img.shields.io/badge/-shevtcova-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D1%88%D0%B5%D0%B2%D1%86%D0%BE%D0%B2%D0%B0-273a6b231?trk=contact-info)
 
 ### 🛠 Технологии:
 <p align="center">
